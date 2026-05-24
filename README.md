@@ -1,0 +1,2 @@
+# thatent-group-teste
+Repositório oficial do grupo de estudos Teste. Gestão de aprendizado colaborativo e versionamento inteligente via Thatent
